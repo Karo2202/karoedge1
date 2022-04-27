@@ -1,0 +1,9 @@
+from,to,weight,duration,relationship
+Ego,A,4,4,1
+Ego,B,3,2,3
+Ego,C,2,3,3
+Ego,D,2,3,3
+A,Ego,4,4,1
+B,Ego,3,2,3
+C,Ego,2,3,3
+D,Ego,3,3,3
